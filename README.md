@@ -8,7 +8,7 @@
 
 `config.py`:
 
-TOKEN = токен вашего бота
+TOKEN = токен вашего бота\n
 PROFILE_CHANNEL_ID = канал с авто профилем
 STRIP_URL = ссылка на полоску снизу эмбеда
 FIRST_IMAGE_URL = изображение первого эмбеда
