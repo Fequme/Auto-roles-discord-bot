@@ -31,3 +31,6 @@ FIRST_IMAGE_URL = first embed image
 SECOND_IMAGE_URL = second embed image
 
 in `SELECT_OPTIONS1` you can add which videos you need in the list.
+
+
+<img>https://media.discordapp.net/attachments/852658679467868182/1142884657873043486/image.png?width=360&height=657</img>
