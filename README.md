@@ -24,11 +24,11 @@ Everything is configured in the config.
 
 `config.py`:
 
-TOKEN = your bot's token
-PROFILE_CHANNEL_ID = channel with auto profile
-STRIP_URL = link to the bottom embed strip
-FIRST_IMAGE_URL = first embed image
-SECOND_IMAGE_URL = second embed image
+- TOKEN = your bot's token
+- PROFILE_CHANNEL_ID = channel with auto profile
+- STRIP_URL = link to the bottom embed strip
+- FIRST_IMAGE_URL = first embed image
+- SECOND_IMAGE_URL = second embed image
 
 in `SELECT_OPTIONS1` you can add which videos you need in the list.
  
