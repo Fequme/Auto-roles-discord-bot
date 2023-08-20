@@ -33,5 +33,10 @@ SECOND_IMAGE_URL = second embed image
 in `SELECT_OPTIONS1` you can add which videos you need in the list.
 
 
-<image src="[https://picsum.photos/800/600](https://media.discordapp.net/attachments/852658679467868182/1142884657873043486/image.png?width=360&height=657)https://media.discordapp.net/attachments/852658679467868182/1142884657873043486/image.png?width=360&height=657" alt="Описания нету">
-
+<details>
+ 
+[![введите сюда описание изображения][1]][1]
+ 
+[1]: https://i.stack.imgur.com/AKtls.jpg
+ 
+</details>
