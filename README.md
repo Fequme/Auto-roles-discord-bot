@@ -33,4 +33,10 @@ SECOND_IMAGE_URL = second embed image
 in `SELECT_OPTIONS1` you can add which videos you need in the list.
 
 
-![](https://github.com/Fequme/Auto-roles-discord-bot/img/fsdfdsfd.png)
+<details>
+ 
+[![введите сюда описание изображения][1]][1]
+ 
+[1]: https://i.stack.imgur.com/AKtls.jpg
+ 
+</details>
