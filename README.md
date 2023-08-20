@@ -37,6 +37,6 @@ in `SELECT_OPTIONS1` you can add which videos you need in the list.
  
 [![введите сюда описание изображения][1]][1]
  
-[1]: https://i.stack.imgur.com/AKtls.jpg
+[1]: [https://i.stack.imgur.com/AKtls.jpg](https://media.discordapp.net/attachments/852658679467868182/1142884657873043486/image.png?width=360&height=657)https://media.discordapp.net/attachments/852658679467868182/1142884657873043486/image.png
  
 </details>
